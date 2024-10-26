@@ -1,0 +1,21 @@
+// {
+//   "build": {
+//     "android": {
+//       "distribution": "store",
+//       "keystore": {
+//         "path": "@naiemhosen430__SIYAM.jks",
+//         "alias": "a367e8fd9bc0fbfd8500a8ce4de7cb5e",
+//         "keystorePassword": "5f96e44dd7b1bc2c0587db7a4331b7cd",
+//         "keyPassword": "6717124cc9b5a30af4579bc6950d6572"
+//       }
+//     }
+//   }
+// }
+
+{
+  "build": {
+    "android": {
+      "distribution": "store"
+    }
+  }
+}
